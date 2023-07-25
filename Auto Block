@@ -1,7 +1,7 @@
 --[[
 	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
 ]]
--- Made by mxkxkks 
+-- Made by mxkxkks / King Trawal
 
 local character = game.Players.LocalPlayer.Character
 local checkRadius = 8 --Change distance if you want
